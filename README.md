@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![:ooame1](https://count.getloli.com/get/@:ooame1)
+
+![ooame1's github stats](https://github-readme-stats.vercel.app/api?username=ooame1&show_icons=true&theme=monokai)
+
 <!--
 **ooame1/ooame1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
